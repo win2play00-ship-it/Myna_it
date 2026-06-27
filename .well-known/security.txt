@@ -1,0 +1,21 @@
+
+Contact: mailto:support.myna@gmail.com
+
+Expires: 2027-06-27T23:59:59.000Z
+
+Preferred-Languages: en
+
+Canonical: https://www.myna.it.com/.well-known/security.txt
+
+Policy: https://www.myna.it.com/privacy-policy.html
+
+Acknowledgments: https://www.myna.it.com/
+
+Hiring: https://www.myna.it.com/
+
+Encryption: https://www.myna.it.com/
+
+CSAF: https://www.myna.it.com/
+
+Copyright: Copyright (c) 2026 Myna. All Rights Reserved.
+

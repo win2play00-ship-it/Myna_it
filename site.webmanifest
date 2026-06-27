@@ -1,0 +1,36 @@
+
+{
+    "name": "Myna",
+    "short_name": "Myna",
+    "description": "Play skill-based 1 vs 1 quiz battles and win real cash rewards.",
+    "start_url": "/",
+    "scope": "/",
+    "display": "standalone",
+    "orientation": "portrait",
+    "background_color": "#F4F9FD",
+    "theme_color": "#153A70",
+    "lang": "en-IN",
+    "categories": [
+        "games",
+        "education",
+        "entertainment"
+    ],
+    "icons": [
+        {
+            "src": "/Myna.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/Myna.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "/Myna.png",
+            "sizes": "180x180",
+            "type": "image/png"
+        }
+    ]
+}
+
